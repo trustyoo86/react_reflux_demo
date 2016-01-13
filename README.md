@@ -7,6 +7,7 @@ React를 기반으로 한 MVC 및 Websocket을 활용한 Boilerplate입니다.
 =====================
 
 **적용기술**
+
 SPA를 구현하기 위한 기술은 다음과 같습니다.
 
 React : View Component를 구현합니다.
@@ -21,7 +22,7 @@ React-bootstrap : 기본 View 구조및 디자인을 하기 위해 bootstrap rea
 
 Webpack : 파일 및 css의 build 또는 dev-server를 통한 개발환경 구축에 사용하였습니다.
 
-**현재 구현 범위*
+**현재 구현 범위**
 
 현재 구현 범위는 다음과 같습니다.
 
@@ -31,7 +32,7 @@ src/component/ModalPopup : react-bootstrap을 이용한 modal을 공통으로 �
 
 src/utils/Connection : superagent를 사용한 REST api GET, POST 및 socket.io를 사용하여 Websocket object를 생성합니다.
 
-**사용법*
+**사용법**
 
 git repository를 clone 하신 후, npm install을 실행합니다.
 
