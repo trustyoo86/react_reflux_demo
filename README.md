@@ -1,4 +1,4 @@
-R3(React + Reflux + REST api) + W(Websocket) Demo
+React + Reflux Demo
 =====================
 
 React를 기반으로 한 MVC 및 Websocket을 활용한 Boilerplate입니다.
